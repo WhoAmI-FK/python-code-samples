@@ -1,0 +1,11 @@
+Total bytecount: 31674
+Files list:
+---------------
+archive.zip
+files.py
+helloworld_start.py
+newfile.txt
+newfile.txt.bak
+shell.py
+testzip.zip
+textfile.txt.bak
